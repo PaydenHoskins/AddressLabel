@@ -2,7 +2,7 @@
 'RCET2265
 'Spring 2026
 'Address label program
-'
+'https://github.com/PaydenHoskins/AddressLabel.git
 
 Option Compare Text
 Option Explicit On
